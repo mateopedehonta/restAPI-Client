@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d4bb8901-910e-4880-9ab7-01c4c43b45e6",
+    "timestamp": 1657722075771,
+    "products": [
+      {
+        "name": "Regla",
+        "description": "10cm",
+        "price": "500",
+        "stock": "40",
+        "url": "URL",
+        "timestamp": 1657586443707,
+        "id": "84873f8b-94d3-46da-8bf8-318af5dd2b75"
+      },
+      {
+        "name": "Tijera",
+        "description": "Roja",
+        "price": "400",
+        "stock": "20",
+        "url": "url",
+        "timestamp": 1657586576849,
+        "id": "f2734893-4465-4c8e-ab8f-fcfd7a0cb1e4"
+      }
+    ]
+  }
+]

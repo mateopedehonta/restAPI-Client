@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Maus",
+    "description": "hyperx",
+    "price": "6000",
+    "stock": "40",
+    "url": "url",
+    "timestamp": 1657723117956,
+    "id": "4f201f12-8c28-4a8f-960a-fd935ce14d15"
+  },
+  {
+    "name": "Regla",
+    "description": "15cm",
+    "price": "500",
+    "stock": "40",
+    "url": "URL",
+    "timestamp": 1657586443707,
+    "id": "84873f8b-94d3-46da-8bf8-318af5dd2b75"
+  },
+  {
+    "name": "Auriculares",
+    "description": "logitech",
+    "price": "15600",
+    "stock": "10",
+    "url": "url",
+    "timestamp": 1657730931236,
+    "id": "d3d27d8e-f7ef-48c5-9a35-c01f53d30402"
+  },
+  {
+    "name": "Tijera",
+    "description": "roja",
+    "price": "400",
+    "stock": "20",
+    "url": "url",
+    "timestamp": 1657586576849,
+    "id": "f2734893-4465-4c8e-ab8f-fcfd7a0cb1e4"
+  }
+]

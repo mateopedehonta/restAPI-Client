@@ -1,4 +1,4 @@
-import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Link, Navigate, Route, Routes } from 'react-router-dom';
 import LinkCart from './component/LinkCart';
 import ApiContainer from './containers/ApiContainer';
 import CartContainter from './containers/CartContainter';
@@ -12,7 +12,9 @@ function App() {
     <div className="App">
      <BrowserRouter>
         <section className='containers'>
-        <LinkCart/>
+        <LinkCart/><br />
+        <Link to={`/api`}>productos administrador</Link><br />
+        <Link to={`/`}>productos usuario</Link>
           <Routes>
             <Route path='/' element={<ProductListContainer/>}/>            <Route path='/' element={<ProductListContainer/>}/>
             <Route path='/carrito/:idCart' element={<CartContainter/>}/>
